@@ -19,4 +19,4 @@ async def how_are_you(ctx):
 async def soure_code(ctx):
     await ctx.send("")
 
-client.run("ODA2MTMyOTM0OTI2MjcwNDg1.YBk_zA.ikNr2Dskonowx4Yjxcv7cRJy1lo")
+client.run("Token_code private I got message now from discord")
