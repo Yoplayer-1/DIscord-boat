@@ -2,6 +2,9 @@
 
 #the code on repl.it : https://repl.it/@Yoplayer1py/Encourage-Bot#main.py
 
+#to add it in Your server use this link : https://discord.com/api/oauth2/authorize?client_id=816654901920530485&permissions=8&scope=bot
+
+#new to discord make a account at discord.com and view a video to make a server I'll add a link later
 
 import discord
 from discord.ext import commands
