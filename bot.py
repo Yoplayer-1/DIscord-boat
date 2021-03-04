@@ -1,3 +1,8 @@
+#Not a boat it's a bot. I renamed it for fun
+
+#the code on repl.it : https://repl.it/@Yoplayer1py/Encourage-Bot#main.py
+
+
 import discord
 from discord.ext import commands
 
