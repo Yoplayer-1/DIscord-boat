@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-client = commands.Bot(command_prefix=">")
+client = commands.Bot(command_prefix="!")
 
 @client.event
 async def on_ready():
@@ -19,4 +19,4 @@ async def how_are_you(ctx):
 async def soure_code(ctx):
     await ctx.send("")
 
-client.run("Token_code private I got message now from discord")
+client.run("token's are private I will be making a video on how to use this repo")
